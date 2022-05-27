@@ -1,0 +1,26 @@
+{
+  "name": "djs-pages",
+  "version": "0.0.0",
+  "description": "An easy-to-use module for creating pages and interacting with them.",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValuWaurld/djs-pages.git"
+  },
+  "keywords": [
+    "discord.js",
+    "pages",
+    "pagination",
+    "embeds",
+    "buttons"
+  ],
+  "author": "ValuWaurld",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValuWaurld/djs-pages/issues"
+  },
+  "homepage": "https://github.com/ValuWaurld/djs-pages#readme"
+}
